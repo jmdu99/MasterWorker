@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SD/MasterWorker.2020/generica/interfaces/src"/>
+	<classpathentry kind="src" path="SD/MasterWorker.2020/generica/manager_node/src"/>
+	<classpathentry kind="src" path="SD/MasterWorker.2020/generica/master_node/src"/>
+	<classpathentry kind="src" path="SD/MasterWorker.2020/generica/worker_node/src"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/basica/interfaces/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/basica/manager_node/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/basica/master_node/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/basica/worker_node/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/generica/interfaces/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/generica/manager_node/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/generica/master_node/interfaces.jar"/>
+	<classpathentry kind="lib" path="SD/MasterWorker.2020/generica/worker_node/interfaces.jar"/>
+	<classpathentry kind="output" path="SD/MasterWorker.2020/basica/interfaces/bin"/>
+</classpath>
